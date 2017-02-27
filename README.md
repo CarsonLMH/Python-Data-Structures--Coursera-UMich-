@@ -1,2 +1,3 @@
-# Python-Data-Structures--Coursera-UMich-
-My work in the course.
+# Python Data Structures
+
+Course taught by Dr. Charles Severance (https://www.coursera.org/learn/python-data).
